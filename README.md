@@ -1,4 +1,5 @@
-Privacy Policy for Masarify
+# Privacy Policy for Masarify
+
 Last updated: August 2026
 1. Introduction
 Masarify is a personal finance management application designed to help users manage their income, expenses, budgets, subscriptions, and financial accounts.
