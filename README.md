@@ -23,6 +23,8 @@ The application may process financial information entered by the user, such as a
 
 Google account information is used only when the user chooses to sign in for Google Drive backup and restore.
 
+When you choose Google Sign-In, Google and Firebase Authentication process account information such as your email address and profile name, and Firebase creates a user identifier to authenticate your EyeOnCash backup account. Authentication services also process technical information such as IP addresses for security and abuse prevention.
+
 EyeOnCash: Expense Tracker does not require users to sign in to use the application.
 
 Google Sign-In
@@ -65,6 +67,8 @@ Google account information used for optional sign-in and backup is kept separate
 Data Security
 
 Reasonable security measures are implemented to help protect your information. However, no method of electronic storage or transmission is completely secure.
+
+Data transmitted to Google authentication, backup and advertising services is encrypted in transit using HTTPS/TLS.
 
 Children’s Privacy
 
